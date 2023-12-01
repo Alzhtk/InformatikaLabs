@@ -1,0 +1,45 @@
+a {
+  text-decoration: none;
+  font: 20px/2.5 "Arial", arial, verdana, sans-serif;
+}
+
+#logo {
+  width: 100px;
+}
+
+#header_section {
+  background-color: gray;
+  border-color: black;
+  border: solid;
+  padding: 15px;
+}
+
+#header_list {
+  align-items: center;
+  justify-content: space-between;
+  display: flex;
+}
+
+#main_section {
+  background-color: gray;
+  border-color: black;
+  border: solid;
+  height: 100vh;
+}
+
+#main_post {
+  width: 30%;
+}
+
+#footer_section {
+  background-color: gray;
+  border-color: black;
+  border: solid;
+  padding: 10px;
+}
+
+#header_list {
+  align-items: center;
+  justify-content: space-between;
+  display: flex;
+}
