@@ -1,0 +1,36 @@
+#header_section_1 {
+    background-color: rgb(39, 39, 158);
+}
+
+#header_section_1 ul {
+    display: flex;
+}
+
+#header_section_2 {
+    background-color: rgb(99, 99, 238);
+}
+
+#header_section_3 {
+    background-color: rgb(99, 99, 238);
+}
+
+#main_section_1_grid {
+    display: grid;
+}
+
+.name {
+    display: flex;
+}
+
+#main_section_2 {
+    height: 50px;    
+    width: 75%;
+}
+
+#main_section_3_grid {
+    display: grid;
+}
+
+.mama {
+    display: flex;
+}
